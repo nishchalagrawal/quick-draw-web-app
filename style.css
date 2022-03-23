@@ -1,0 +1,38 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    color: blue;
+    background-color: cornsilk;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#timer{
+    float: right;
+    font-size: 30px;
+    font-family: bold;font-weight: 400;
+
+}
+
+#score{
+    float: left;
+    font-size: 30px;
+    font-family: bold;
+    font-weight: 400;
+}
+
+#label{
+    font-size: 25px;
+}
+
+#confidence{
+    font-size: 25px;
+}
+#update{
+    font-size: 25px;
+    color: red;
+}
